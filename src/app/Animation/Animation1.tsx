@@ -3,7 +3,7 @@ export default function Animation1() {
     return (
         <div>
             <div className='context'>
-                <h1>Code the world</h1>
+                <h1>Hiển Hồ</h1>
             </div>
 
             <div className='area'>
